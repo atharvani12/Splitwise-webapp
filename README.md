@@ -1,1 +1,2 @@
-# Splitwise-webapp
+# CBFriendsCost
+CB Project
