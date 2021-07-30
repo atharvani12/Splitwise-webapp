@@ -1,2 +1,3 @@
-# CBFriendsCost
-CB Project
+# FriendsCost
+ Project
+https://splitwise-webapp.herokuapp.com/
